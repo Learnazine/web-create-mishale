@@ -1,0 +1,31 @@
+body {
+    padding-top: 56px; 
+    font-family: sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#copyright {
+    color: gray;
+}
+
+#footer {
+    background-color:#eee;
+    padding: 16px;
+    margin-top: 32px;
+    text-align: bottom;
+}
+
+.footer {
+    margin-top: bottom;
+}
+
+@media (min-width: 768px) {
+    
+}
+
+@media (min-width: 992px) {
+    
+}
